@@ -1,9 +1,10 @@
 ---
-title: "Stardew Valley"
+title: "Clean Frontend Architecture"
 date: "2023-05-04"
-image: "/images/stardew-valley.jpg"
+image: "/images/stardew-valley.webp"
 ---
 
-__Stardew Valley__ is a simulation role-playing video game developed by Eric "ConcernedApe" Barone. Players take the role of a character who inherits their deceased grandfather's dilapidated farm in a place known as Stardew Valley. The game was released for Windows in February 2016 before being ported to other platforms.
+In this post, I will talk about some of those concepts. But firstly, why do I want to talk about Frontend Architecture? Well, for me it’s an extremely personal topic. Why? Because on a daily basis, I have to fight really hard to convince not only the management level but also development teams that Frontend Architecture is as important as Backend Architecture.
 
-Stardew Valley is open-ended, allowing players to grow crops, raise livestock, fish, cook, mine, forage, and socialize with the townspeople, including the ability to marry and have children. It allows up to four players to play online together.
+Why do we need Frontend Architecture?
+Functional and non-functional requirements must not only be applied in the Backend but also in the Frontend. Thus, with Frontend Architecture we are able to fulfill the business requirements. Moreover, we are able to better understand the complexity of projects, resulting in reducing the risk, time and costs of any project. However, in my opinion, the most valuable reason for Frontend Architecture is the maintainability and scalability of any project.s

@@ -1,9 +1,13 @@
 ---
-title: "Hollow Knight"
-date: "2023-05-05"
-image: "/images/hollow-knight.jpg"
+title: "STOP using simple console.log in JavaScript. Try this instead"
+date: "2023-09-05"
+image: "/images/hollow-knight.webp"
 ---
 
-__Hollow Knight__ is a 2017 Metroidvania video game developed and published by independent developer Team Cherry. In the game, the player controls the Knight, a nameless insectoid warrior, who explores Hallownest, a fallen kingdom plagued by a supernatural disease, known as the infection.
+Debugging. Something that programmers try hard to avoid, only to make more bugs in code.
 
-The game is set in diverse subterranean locations, featuring friendly and hostile insectoid characters and numerous bosses. Players have the opportunity to unlock new abilities as they explore each location, along with pieces of lore and flavour text that are spread throughout the kingdom.
+Coding without bugs is something even the best programmers would find hard. Which is why, you should always debug code.
+
+And one of the best ways to debug JavaScript code is the amazing console.log(). Except, there are better ways.
+
+And that is the point of this article. To tell about better ways to interact with the console.

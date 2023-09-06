@@ -7,9 +7,9 @@ export default async function HomePage() {
   console.log('[HomePage] rendering');
   return (
     <>
-      <Heading>Indie Gamer</Heading>
+      <Heading>NextJS Demo</Heading>
       <p className="pb-3">
-        Only the best indie games, reviewed for you.
+        Only show the most popular tech article for you.
       </p>
       <div className="bg-white border rounded shadow w-80
                       hover:shadow-xl sm:w-full">
