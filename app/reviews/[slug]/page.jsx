@@ -2,8 +2,11 @@ import Heading from '@/components/Heading';
 import ShareLinkButton from '@/components/ShareLinkButton';
 import { getReview, getSlugs } from '@/lib/reviews';
 
+// tell nextjs which routes are in this dynamic routes
+//for build to static html files, if no generate, will render in the runtime
 export async function generateStaticParams() {
   const slugs = await getSlugs();
+  // format [{slug: ''}, {}...]
   return slugs.map((slug) => ({ slug }));
 }
 

@@ -2,6 +2,7 @@ import Link from 'next/link';
 import Heading from '@/components/Heading';
 import { getReviews } from '@/lib/reviews';
 
+// go into the meta head, pass to the layout meta
 export const metadata = {
   title: 'Reviews',
 };

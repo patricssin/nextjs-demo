@@ -9,6 +9,7 @@ export const metadata = {
   },
 };
 
+//children are the dom in page.jsx
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className={`${exo2.variable} ${orbitron.variable}`}>
